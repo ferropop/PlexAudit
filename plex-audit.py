@@ -3,6 +3,7 @@
 Plex Library Audit Tool
 Compares what Plex has scanned vs what files actually exist on disk.
 Outputs a self-contained interactive HTML report.
+ＦＥＲＲＯ  
 """
 
 import sqlite3
